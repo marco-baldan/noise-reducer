@@ -22,6 +22,4 @@ I also really like to use poetry for dependancy management, if you're also a fel
     pythom main.py
 3. check the mywav_reduced_noise.wav file for the noise-reduced audio.
 
-This should be easy to read and straightforward to follow!
-
 Made with ❤️ for podcasters 
